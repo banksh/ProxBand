@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 10/29/2014 1:10:32 AM
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 10/29/2014 9:02:50 AM
 
 BeginCmp
 TimeStamp = /5450B248;
@@ -38,35 +38,21 @@ EndCmp
 BeginCmp
 TimeStamp = /544FDC28;
 Reference = C6;
-ValeurCmp = C;
+ValeurCmp = 12.5pF;
 IdModule  = SM0402_c;
 EndCmp
 
 BeginCmp
 TimeStamp = /544FDC3A;
 Reference = C7;
-ValeurCmp = C;
+ValeurCmp = 12.5pF;
 IdModule  = SM0402_c;
 EndCmp
 
 BeginCmp
-TimeStamp = /544FDEB5;
+TimeStamp = /5450E1B0;
 Reference = C8;
-ValeurCmp = C;
-IdModule  = SM0402_c;
-EndCmp
-
-BeginCmp
-TimeStamp = /544FDEBB;
-Reference = C9;
-ValeurCmp = C;
-IdModule  = SM0402_c;
-EndCmp
-
-BeginCmp
-TimeStamp = /544F773E;
-Reference = C10;
-ValeurCmp = 100nF;
+ValeurCmp = 10nF;
 IdModule  = SM0402_c;
 EndCmp
 
@@ -624,10 +610,10 @@ IdModule  = CRYSTAL_CPFB_SMD;
 EndCmp
 
 BeginCmp
-TimeStamp = /544FDEAF;
+TimeStamp = /5450E187;
 Reference = X2;
 ValeurCmp = 8MHz;
-IdModule  = CRYSTAL_CPFB_SMD;
+IdModule  = CRYSTAL-SMD4;
 EndCmp
 
 EndListe
