@@ -1,4 +1,4 @@
-update=10/28/2014 1:38:18 PM
+update=10/29/2014 12:22:34 AM
 version=1
 last_client=pcbnew
 [cvpcb]
@@ -50,7 +50,7 @@ LibName30=valves
 LibName31=ProxBand_Custom
 [pcbnew]
 version=1
-LastNetListRead=
+LastNetListRead=KiCad/Main.net
 UseCmpFile=1
 PadDrill=0.000000000000
 PadDrillOvalY=0.000000000000
