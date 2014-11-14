@@ -1,0 +1,196 @@
+PCBNEW-LibModule-V1  11/11/2014 2:46:25 PM
+# encoding utf-8
+Units mm
+$INDEX
+SE2435L
+$EndINDEX
+$MODULE SE2435L
+Po 0 0 0 15 54626609 00000000 ~~
+Li SE2435L
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5 1 1 0 0.15 N V 21 N "SE2435L"
+T1 0 -7.7 1 1 0 0.15 N V 21 N "VAL**"
+DC -1.25 -1.25 -1 -1.25 0.15 21
+DS -2 -2 2 -2 0.15 21
+DS 2 -2 2 2 0.15 21
+DS 2 2 -2 2 0.15 21
+DS -2 2 -2 -2 0.15 21
+$PAD
+Sh "27" R 2.7 2.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "13" R 0.6 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9 1.25
+$EndPAD
+$PAD
+Sh "14" R 0.6 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9 0.75
+$EndPAD
+$PAD
+Sh "15" R 0.6 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9 0.25
+$EndPAD
+$PAD
+Sh "16" R 0.6 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9 -0.25
+$EndPAD
+$PAD
+Sh "17" R 0.6 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9 -0.75
+$EndPAD
+$PAD
+Sh "18" R 0.6 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9 -1.25
+$EndPAD
+$PAD
+Sh "1" R 0.6 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9 -1.25
+$EndPAD
+$PAD
+Sh "2" R 0.6 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9 -0.75
+$EndPAD
+$PAD
+Sh "3" R 0.6 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9 -0.25
+$EndPAD
+$PAD
+Sh "4" R 0.6 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9 0.25
+$EndPAD
+$PAD
+Sh "5" R 0.6 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9 0.75
+$EndPAD
+$PAD
+Sh "6" R 0.6 0.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9 1.25
+$EndPAD
+$PAD
+Sh "19" R 0.25 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.25 -1.9
+$EndPAD
+$PAD
+Sh "20" R 0.25 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75 -1.9
+$EndPAD
+$PAD
+Sh "21" R 0.25 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.25 -1.9
+$EndPAD
+$PAD
+Sh "22" R 0.25 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25 -1.9
+$EndPAD
+$PAD
+Sh "23" R 0.25 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75 -1.9
+$EndPAD
+$PAD
+Sh "24" R 0.25 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.25 -1.9
+$EndPAD
+$PAD
+Sh "7" R 0.25 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.25 1.9
+$EndPAD
+$PAD
+Sh "8" R 0.25 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75 1.9
+$EndPAD
+$PAD
+Sh "9" R 0.25 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25 1.9
+$EndPAD
+$PAD
+Sh "10" R 0.25 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.25 1.9
+$EndPAD
+$PAD
+Sh "11" R 0.25 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75 1.9
+$EndPAD
+$PAD
+Sh "12" R 0.25 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.25 1.9
+$EndPAD
+$EndMODULE SE2435L
+$EndLIBRARY
