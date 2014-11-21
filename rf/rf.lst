@@ -1,4 +1,4 @@
-eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 11/11/2014 6:52:09 PM
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 11/14/2014 5:21:57 PM
 #Cmp ( order = Reference )
 | C1         3.3pF       
 | C2         3.3pF       
@@ -22,8 +22,8 @@ eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 11/11/2014 6:52:09 PM
 | C20        220nF       
 | C21        220nF       
 | C22        150nF       
-| C23        220nF       
-| C24        220nF       
+| C23        9pF         
+| C24        9pF         
 | C25        220nF       
 | C26        220nF       
 | L1         6.8nH       
@@ -52,6 +52,8 @@ eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 11/11/2014 6:52:09 PM
 | 2.7pF        C14       
 | 3.3pF        C1        
 | 3.3pF        C2        
+| 9pF          C23       
+| 9pF          C24       
 | 10pF         C3        
 | 22pF         C7        
 | 33pF         C6        
@@ -68,8 +70,6 @@ eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 11/11/2014 6:52:09 PM
 | 220nF        C19       
 | 220nF        C20       
 | 220nF        C21       
-| 220nF        C23       
-| 220nF        C24       
 | 220nF        C25       
 | 220nF        C26       
 | 4.7uF        C4        
